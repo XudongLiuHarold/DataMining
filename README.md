@@ -8,7 +8,9 @@
 -  **Matlab 2014b**
 
 
-#### Usage
+#### Installation
+
+---
 
 - **Make sure you have already installed the Matlab 2014b or higher version.**
 - **Clone the repo to local.**
@@ -55,7 +57,7 @@ $ git clone https://github.com/xdliu002/DataMining-.git
 
 #### Assignment 6  Association Rule
 
-- Problem1 ![Problem1](http://cl.ly/3m3D072t1U0B)
+- Problem1 ![Problem1](https://s3.amazonaws.com/f.cl.ly/items/193O1x0X3R231Z2v3D0r/Image%202016-01-22%20at%205.32.36%20PM.png)
 - Problem2 ![Problem2](http://cl.ly/1A193S3k3Y3q)
 
 
