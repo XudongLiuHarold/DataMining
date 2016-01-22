@@ -25,7 +25,7 @@ $ git clone https://github.com/xdliu002/DataMining-.git
 ===
 
 #### Assignment 1  3PL Model & Basic Matlab programming knowledge
-
+  
  ![Problem1](http://f.cl.ly/items/3i0E1y1R1e1Z323q373q/Image%202016-01-22%20at%205.20.38%20PM.png)
  ![Problem2](http://f.cl.ly/items/0B1q0f3G0Q2r0r2q3A3s/Image%202016-01-22%20at%205.22.28%20PM.png)
 
